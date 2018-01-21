@@ -1,7 +1,7 @@
-const recipe = {};
+var recipe = {};
 
 function updateObjectWithKeyAndValue (givenRecipes, newKey, newValue){
-  object.assign (newRecipe, {[key]: value})
+  object.assign (recipeecipe, {[key]: value})
   return recipe, newRecipe;
 }
 
